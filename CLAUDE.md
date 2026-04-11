@@ -1,6 +1,6 @@
 # PROJECT MACHINE
 # Multi-Agent Research and Presentation Engine
-# Version 1.0
+# Version 3.0
 
 ---
 
@@ -90,3 +90,8 @@ Before finalizing any slide:
 3. Does this slide advance the argument or is it filler?
 
 If any answer is no: rebuild.
+
+## PIPELINE
+
+Always run pipeline.py for all presentations.
+Located at: ~/.claude/skills/project-machine/pipeline.py
