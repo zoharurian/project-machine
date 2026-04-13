@@ -69,6 +69,7 @@ project-machine/
 ├── presentation-spec.md    # Slide-by-slide design instructions
 ├── install.sh              # Installation script
 ├── README.md               # This file
+├── pipeline.py             # HTML to PNG to PPTX engine
 └── agents/
     ├── researcher.md       # Strategic research methodology
     ├── analyst.md          # Quantitative analysis framework
