@@ -1,4 +1,4 @@
-# ORCHESTRATOR
+# agents/orchestrator.md
 # The Project Director — Relay Race Manager
 # Version 3.0
 
