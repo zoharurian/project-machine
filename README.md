@@ -15,7 +15,7 @@ Brief
         ├── Analyst     → Quantitative models, scenarios, verdict
         ├── Writer      → 3 angles, core narrative, section headlines
         └── Designer    → Visual system, slide-by-slide brief
-              └── Final PPTX (25-28 slides, dark theme, agent-attributed)
+              └── Final PPTX (42 slides, dark theme, agent-attributed)
 ```
 
 Every agent's contribution is visible in the slides — not as a footnote, but as a designed element woven throughout the deck.
