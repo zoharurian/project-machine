@@ -16,11 +16,11 @@ TEXT_SECONDARY = '#C9D1D9'
 TEXT_MUTED = '#8B949E'
 
 AGENTS = {
-    'researcher':   {'color': '#1D7AA5', 'name': 'חוקר'},
-    'analyst':      {'color': '#0D9488', 'name': 'אנליסט'},
-    'writer':       {'color': '#BB1B4E', 'name': 'כותב'},
-    'designer':     {'color': '#D87B2B', 'name': 'מעצב'},
-    'orchestrator': {'color': '#7C3AED', 'name': 'מנצח'},
+ 'researcher':   {'color': '#1D7AA5', 'name': 'Researcher'},
+'analyst':      {'color': '#0D9488', 'name': 'Analyst'},
+'writer':       {'color': '#BB1B4E', 'name': 'Writer'},
+'designer':     {'color': '#D87B2B', 'name': 'Designer'},
+'orchestrator': {'color': '#7C3AED', 'name': 'Orchestrator'},
 }
 
 def relay_tracker(current_agent):
