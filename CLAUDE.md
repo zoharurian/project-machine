@@ -4,6 +4,14 @@
 
 ---
 
+## LANGUAGE
+
+Default output language: English.
+If the brief is written in Hebrew or contains the word "עברית" — all agents produce output in Hebrew.
+Technical terms stay in English in both languages.
+
+---
+
 ## WHAT THIS IS
 
 A 4-agent machine that turns any brief into a research-grade presentation.
@@ -90,8 +98,3 @@ Before finalizing any slide:
 3. Does this slide advance the argument or is it filler?
 
 If any answer is no: rebuild.
-
-## PIPELINE
-
-Always run pipeline.py for all presentations.
-Located at: ~/.claude/skills/project-machine/pipeline.py
